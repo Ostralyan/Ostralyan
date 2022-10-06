@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Ostralyan
+- 👀 I’m interested in traveling, cooking and learning new things
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on things
+- 📫 How to reach me lukecxu@gmail.com
