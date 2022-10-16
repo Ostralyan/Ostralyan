@@ -1,6 +1,6 @@
 # Luke Xu
 
-**`A Fullstack Meta Engineer`**
+**`A Fullstack Engineer`**
 
 I'm a Software Engineer living in New Jersey.
 
