@@ -28,7 +28,7 @@ I'm a Software Engineer living in New Jersey.
 
 ### 📊 Stats
 
-<!-- ![Ostralyan Stats](https://github-readme-stats.vercel.app/api?username=Ostralyan&show_icons=true&theme=gruvbox) -->
+![Ostralyan Stats](https://github-readme-stats.vercel.app/api?username=Ostralyan&show_icons=true&theme=gruvbox)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Ostralyan&theme=gruvbox&border_radius=4.5)
 
