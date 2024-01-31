@@ -2,7 +2,8 @@
 
 **`A Fullstack Engineer`**
 
-I'm a Software Engineer living in New Jersey.
+I'm a Software Engineer currently traveling the world :)
+I'm also learning ML/AI and AR/VR as I travel.
 
 ### 🧰 Languages & Tools
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
