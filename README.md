@@ -65,4 +65,15 @@ I'm also learning ML/AI and AR/VR as I travel.
 
 <details>
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
-    WIP
+ <p>
+    My journey into coding began with a spark of curiosity ignited by Warcraft 3 and its World Editor. Alongside a friend, I delved into the editor, experimenting with triggers and observing how they converted into JASS code. Back then, my understanding of programming was limited; I didn't even know about for loops, so I painstakingly repeated the same statements over and over.
+</p>
+ <p>
+My professional career started at Shadow Financial Systems, where I spent about two years working with C++ and C#. Although it was a solid foundation, I felt my growth was stagnating, and I yearned for more learning opportunities. This drive led me to Honest Buildings, a move that proved to be a pivotal point in my career. Here, I quickly absorbed new knowledge and skills, leading to a promotion to Engineering Manager.
+</p>
+ <p>
+Seeking further challenges, I transitioned to Meta, formerly known as Facebook. At Meta, I worked with languages such as Hack, C++, and Java, tackling diverse projects. My roles spanned from working on Authentication and Authorization to enabling the sale of NFTs on Instagram, and contributing to Financial Services and Kustomer.
+</p>
+ <p>
+Beyond my professional work, I have a keen interest in Machine Learning and AR/VR. This passion keeps me engaged during my spare time, and I am currently channeling it into a side project for the Apple Vision Pro. This journey reflects my continuous quest for knowledge and growth in the ever-evolving field of technology.
+</p>
