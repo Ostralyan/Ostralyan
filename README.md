@@ -64,7 +64,7 @@ I'm also learning ML/AI and AR/VR as I travel.
 #
 
 <details>
- <summary><h3>👨‍💻 My Coding Journey</h3></summary>
+<h3>👨‍💻 My Coding Journey</h3>
  <p>
     My journey into coding began with a spark of curiosity ignited by Warcraft 3 and its World Editor. Alongside a friend, I delved into the editor, experimenting with triggers and observing how they converted into JASS code. Back then, my understanding of programming was limited; I didn't even know about for loops, so I painstakingly repeated the same statements over and over.
 </p>
