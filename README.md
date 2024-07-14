@@ -57,7 +57,7 @@ I'm also learning ML/AI and AR/VR as I travel.
 
 ### 📊 Stats
 
-![Ostralyan Stats](https://github-readme-stats.vercel.app/api?username=Ostralyan&show_icons=true&theme=gruvbox)
+![Ostralyan Stats](https://github-readme-stats.vercel.app/api?username=Ostralyan&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Ostralyan&theme=gruvbox&border_radius=4.5)
 
