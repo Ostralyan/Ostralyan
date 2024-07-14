@@ -39,8 +39,8 @@ I'm also learning ML/AI and AR/VR as I travel.
 <img align="left" alt="Vim" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
 
 <br />
-#
 
+#
 
 ### 📊 Stats
 
