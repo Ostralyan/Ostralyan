@@ -69,6 +69,10 @@ I'm also learning ML/AI and AR/VR as I travel.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Ostralyan&theme=tokyonight&border_radius=4.5)
 
+<img height="137px"
+  src="https://stackoverflow-card.vercel.app/?userID=5229124&theme=tokyonight"
+/>
+
 #
 
 ## 👨‍💻 My Coding Journey
