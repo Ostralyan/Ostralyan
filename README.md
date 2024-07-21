@@ -25,7 +25,7 @@ I am a Software Engineer currently traveling internationally while expanding my 
 
 <br />
 
-# Frameworks
+### 👨🏻‍💻 Frameworks
 
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Next.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
