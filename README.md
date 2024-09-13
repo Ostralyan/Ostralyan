@@ -110,8 +110,6 @@ I am a Software Engineer currently traveling internationally while expanding my 
 
 ### 📊 Stats
 
-![Ostralyan Stats](https://github-readme-stats.vercel.app/api?username=Ostralyan&show_icons=true&theme=tokyonight)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Ostralyan&theme=tokyonight&border_radius=4.5)
 
 <img height="137px"
