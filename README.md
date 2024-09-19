@@ -2,7 +2,7 @@
 
 **`A Fullstack Engineer`**
 
-I am a Software Engineer currently traveling internationally while expanding my expertise in Machine Learning, Artificial Intelligence, and Augmented/Virtual Reality. Test
+I am a Software Engineer currently traveling internationally while expanding my expertise in Machine Learning, Artificial Intelligence, and Augmented/Virtual Reality.
 
 ### 🧰 Languages #
 <span><img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></span>
