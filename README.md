@@ -25,7 +25,7 @@ I am a Software Engineer currently traveling internationally while expanding my 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 
 <br />
-
+<br />
 
 ### 👨🏻‍💻 Frameworks #
 
